@@ -1,5 +1,3 @@
-[![Diego M.Rodrigues's github stats](https://github-readme-stats.vercel.app/api?username=diegomr86&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
 ### Hi there 👋!
 
 I'm **Diego M. Rodrigues**, a Fullstack Web Apps developer
@@ -16,9 +14,7 @@ I'm **Diego M. Rodrigues**, a Fullstack Web Apps developer
   - Twitter: [@sociobiodev](https://twitter.com/sociobiodev)
   - Instagram: [@diego.m.rodrigues](https://www.instagram.com/diego.m.rodrigues/)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diegomr86&langs_count=8&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
-#### Currently working on these projects:
+#### Open Source projects that I love to be involved in:
 
 [![Cultivar Brasil](https://github-readme-stats.vercel.app/api/pin/?username=diegomr86&repo=cultivar&theme=dark)](https://www.cultivarbrasil.com)
 
@@ -26,10 +22,18 @@ I'm **Diego M. Rodrigues**, a Fullstack Web Apps developer
 
 [![Dev Flow](https://github-readme-stats.vercel.app/api/pin/?username=terrakrya&repo=dev-flow&theme=dark)](https://github.com/terrakryadiegormr86/dev-flow)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=squad-on&repo=tekoa&theme=dark)](https://tekoa.terrakrya.com/)
+[![Prolancer.guru](https://github-readme-stats.vercel.app/api/pin/?username=squad-on&repo=tekoa&theme=dark)](https://tekoa.terrakrya.com/)
+
+#### Some metrics:
+
+[![Diego M.Rodrigues's github stats](https://github-readme-stats.vercel.app/api?username=diegomr86&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diegomr86&langs_count=8&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 [![diegomr86's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=diegomr86)](https://github.com/anuraghazra/github-readme-stats)
 
-![What I'm listening](https://spotify-recently-played-readme.vercel.app/api?user=12143605349)
-
 ![Views](https://komarev.com/ghpvc/?username=diegomr86&color=green)
+
+#### What I'm listening
+
+![What I'm listening](https://spotify-recently-played-readme.vercel.app/api?user=12143605349)
