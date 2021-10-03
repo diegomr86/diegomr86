@@ -18,8 +18,6 @@ I'm **Diego M. Rodrigues**, a Fullstack Web Apps developer
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diegomr86&langs_count=8&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![diegomr86's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=diegomr86)](https://github.com/anuraghazra/github-readme-stats)
-
 #### I’m currently working these projects:
 
 [![Cultivar Brasil](https://github-readme-stats.vercel.app/api/pin/?username=diegomr86&repo=cultivar&theme=dark)](https://www.cultivarbrasil.com)
@@ -29,3 +27,9 @@ I'm **Diego M. Rodrigues**, a Fullstack Web Apps developer
 [![Vue CMS](https://github-readme-stats.vercel.app/api/pin/?username=terrakrya&repo=dev-flow&theme=dark)](https://github.com/terrakryadiegormr86/dev-flow)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=squad-on&repo=tekoa&theme=dark)](https://tekoa.terrakrya.com/)
+
+[![diegomr86's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=diegomr86)](https://github.com/anuraghazra/github-readme-stats)
+
+![What I'm listening](https://spotify-recently-played-readme.vercel.app/api?user=12143605349)
+
+![Views](https://komarev.com/ghpvc/?username=diegomr86&color=green)
