@@ -7,10 +7,10 @@ I'm **Diego M. Rodrigues**, a Fullstack Web Apps developer
 - I’m currently working with **Javascript, Nuxt.js, Vue.js, Vuetify, Bootstrap, Firebase, Node.js, Express, Mongoose, MongoDB...**
   
 - I’m currently learning **Machine learning Flutter Docker UI/UX**
-- I’m looking to collaborate on **open source projects that have some real value to society and collaborate with the preservation/regeneration of our ecosystems**
-- I already worked with Blockchain, React.js, Ionic Framework, Angular.js, Criptocurrencies, jQuery, Ruby on Rails, Java, PHP, Linux, Network.
-- Ask me about anything. Feels free!
-- Fun fact: Faço programa!
+- I’m looking to collaborate on **open source** projects that have some **real value to society** and collaborate with the **preservation/regeneration of our ecosystems**
+- I already worked with **Blockchain, React.js, Ionic Framework, Angular.js, Criptocurrencies, jQuery, Ruby on Rails, Java, PHP, Linux, Network**
+- Ask me about **anything**. Feels free!
+- Fun fact: **Faço programa!**
 - How to reach me: 
   - Email [diegomr86@gmail.com](mailto:diegomr86@gmail.com)
   - Twitter: [@sociobiodev](https://twitter.com/sociobiodev)
