@@ -1,6 +1,6 @@
 ### Hi there 👋!
 
-I'm **Diego M. Rodrigues**, a **Fullstack Web Apps developer**.
+I'm **Diego M. Rodrigues**, a **Fullstack Web Apps Developer**.
 
 I love to collaborate on **open source** projects that have some **real value to society** and collaborate with the **preservation/regeneration of our ecosystems**
 
@@ -45,7 +45,6 @@ I love to collaborate on **open source** projects that have some **real value to
   ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 
-
 - I already worked with:
 
   ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
@@ -61,14 +60,11 @@ I love to collaborate on **open source** projects that have some **real value to
   ![GitLab CI](https://img.shields.io/badge/GitLabCI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 
 
-
-
-
 - Ask me about **anything**. Feels free!
 - Fun fact: **Faço programa!**
 - How to reach me: 
-  - Portfolio [Diego M. Rodrigues's Portfolio](https://diegomr86.github.io/en)
-  - Email [diegomr86@gmail.com](mailto:diegomr86@gmail.com)
+  - Portfolio: [Diego M. Rodrigues](https://diegomr86.github.io/en)
+  - Email: [diegomr86@gmail.com](mailto:diegomr86@gmail.com)
   - Twitter: [@sociobiodev](https://twitter.com/sociobiodev)
   - Instagram: [@diego.m.rodrigues](https://www.instagram.com/diego.m.rodrigues/)
 
@@ -85,9 +81,9 @@ I love to collaborate on **open source** projects that have some **real value to
 
 #### Some metrics:
 
-[![Diego M.Rodrigues's github stats](https://github-readme-stats.vercel.app/api?username=diegomr86&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=diegomr86&theme=dark)](https://git.io/streak-stats)
+
+[![Diego M.Rodrigues's github stats](https://github-readme-stats.vercel.app/api?username=diegomr86&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 [![diegomr86's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=diegomr86&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
