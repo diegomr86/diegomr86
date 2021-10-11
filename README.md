@@ -78,4 +78,3 @@ I love to collaborate on **open source** projects that have some **real value to
 
 ![What I'm listening](https://spotify-recently-played-readme.vercel.app/api?user=12143605349)
 
-![Views](https://komarev.com/ghpvc/?username=diegomr86&color=green)
