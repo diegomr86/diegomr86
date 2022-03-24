@@ -3,7 +3,6 @@
 Meu nome é **Diego M. Rodrigues** e sou **Desenvolvedor de Software Fullstack**.
 
 Sou formado em Segurança da Informação. Trabalho desde 2007 com desenvolvimento de software, e tive a oportunidade trabalhar com várias equipes, tecnologias e linguagens de programação e com isso consigo ter uma visão mais ampla dos desafios que se apresentam. Tenho um bom domínio Fullstack mas recentemente estou um pouco mais focado no Frontend. Gosto de trabalhar em equipes com bastante diversidade e de trocar experiências.
-**Estou analisando propostas de contrato CLT.**
 
 
 - Estou trabalhando principalmente com:
@@ -45,6 +44,8 @@ Sou formado em Segurança da Informação. Trabalho desde 2007 com desenvolvimen
   ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
   
 
+**Estou analisando propostas de contrato CLT.**
+
 - Meus contatos: 
   - Linkedin: [@diegomr86](https://www.linkedin.com/in/diegomr86/)
   - Twitter: [@sociobiodev](https://twitter.com/sociobiodev)
@@ -52,4 +53,4 @@ Sou formado em Segurança da Informação. Trabalho desde 2007 com desenvolvimen
   - Email: [diegomr86@gmail.com](mailto:diegomr86@gmail.com)
 
 
-👇🏽 Esses são os projetos que eu criei que mais tenho orgulho.
+👇🏽 Esses são os projetos que eu criei que mais tenho orgulho de mostrar
