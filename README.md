@@ -2,7 +2,7 @@
 
 Meu nome é **Diego M. Rodrigues** e sou **Desenvolvedor de Software Fullstack**.
 
-Sou formado em Segurança da Informação. Trabalho desde 2007 com desenvolvimento de software, e tive a oportunidade trabalhar com várias equipes, tecnologias e linguagens de programação, com isso consigo ter uma visão mais ampla dos desafios que se apresentam. Tenho um bom domínio Fullstack mas recentemente estou um pouco mais focado no Frontend. Gosto de trabalhar em equipes com bastante diversidade e de trocar experiências.
+Sou formado em Segurança da Informação. Trabalho desde 2007 com desenvolvimento de software, e tive a oportunidade trabalhar com várias equipes, tecnologias e linguagens de programação e com isso consigo ter uma visão mais ampla dos desafios que se apresentam. Tenho um bom domínio Fullstack mas recentemente estou um pouco mais focado no Frontend. Gosto de trabalhar em equipes com bastante diversidade e de trocar experiências.
 **Estou analisando propostas de contrato CLT.**
 
 
@@ -52,6 +52,4 @@ Sou formado em Segurança da Informação. Trabalho desde 2007 com desenvolvimen
   - Email: [diegomr86@gmail.com](mailto:diegomr86@gmail.com)
 
 
-[![Diego M.Rodrigues's github stats](https://github-readme-stats.vercel.app/api?username=diegomr86&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
-
+👇🏽 Esses são os projetos que eu criei que mais tenho orgulho.
