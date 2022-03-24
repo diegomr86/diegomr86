@@ -2,7 +2,8 @@
 
 Meu nome é **Diego M. Rodrigues** e sou **Desenvolvedor de Software Fullstack**.
 
-Sou formado em Segurança da Informação. Trabalho desde 2007 com desenvolvimento de software, o que me permitiu interagir com várias tecnologias/linguagens e hoje ter uma visão mais ampla para solucionar meus desafios. Tenho um bom domínio Fullstack mas recentemente estou um pouco mais focado no Frontend. **Estou analisando propostas de contrato CLT.**
+Sou formado em Segurança da Informação. Trabalho desde 2007 com desenvolvimento de software, e tive a oportunidade trabalhar com várias equipes, tecnologias e linguagens de programação, com isso consigo ter uma visão mais ampla dos desafios que se apresentam. Tenho um bom domínio Fullstack mas recentemente estou um pouco mais focado no Frontend. Gosto de trabalhar em equipes com bastante diversidade e de trocar experiências.
+**Estou analisando propostas de contrato CLT.**
 
 
 - Estou trabalhando principalmente com:
